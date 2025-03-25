@@ -1,4 +1,5 @@
 Gaze Detection Alert System
+==============================
 
 This project uses OpenCV, dlib, and OpenFace to detect a user's gaze via a webcam. It provides visual feedback by marking the user's eye region and playing an alert sound when the user looks away from the screen. This can be useful for monitoring user engagement in applications like online learning or driver attention detection.
 
